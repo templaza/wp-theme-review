@@ -11,6 +11,9 @@ This is the actionable checklist to review a WordPress theme on [WordPress.org](
 - [ ] Run Theme Check then see the results
 - [ ] Run Theme Mentor then see the results
 - [ ] Drag Monster Widget to the Sidebar then see how it looks
+- [ ] Test with Theme Unit Test - Compare with Default WordPress Theme
+- [ ] Make sure all page clear with Debug Bar. No warning, notice, etc..
+- [ ] Run Log Deprecated Notices. Make sure clear all Deprecated Calls
 
 ## Accessibility
 
